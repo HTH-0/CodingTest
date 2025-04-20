@@ -11,6 +11,6 @@
 ```bash
 📁 CodingTest/
 ├── BOJ/
-|
+│
 └── programmers/
 
