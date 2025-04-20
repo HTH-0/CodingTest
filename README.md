@@ -10,7 +10,6 @@
 
 ```bash
 📁 CodingTest/
-├── BOJ/
-│
-└── programmers/
+  ├── BOJ/
+  └── programmers/
 
